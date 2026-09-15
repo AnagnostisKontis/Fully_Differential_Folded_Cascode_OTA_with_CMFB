@@ -57,12 +57,12 @@ All simulations and validations were performed in **LTspice**.
 
 ### Schematic
 
-![System Schematic](images/2-stage-Miller_op-Amp.jpg)
+![System Schematic](images/Fully_Differential_Folded_Cascode_OTA_with_CMFB.jpg)
 
 ### Transient Analysis
 The system was evaluated with the use of a weak 1mV input signal to verify the circuit's gain.
 
-![Waveforms](images/2-stage-Miller_op-Amp_tran_temperature_Negative_feedback.jpg)
+![Waveforms](images/Fully_Differential_Folded_Cascode_OTA_with_CMFB_tran.jpg)
 
 - **Green Trace:** Amplified Output Signal at -40C
 - **Blue Trace:** Amplified Output Signal at 25C
@@ -71,7 +71,7 @@ The system was evaluated with the use of a weak 1mV input signal to verify the c
 
 ### AC Analysis
 
-![Waveforms](images/2-stage-Miller_op-Amp_AC_Analysis_temperature.jpg)
+![Waveforms](images/Fully_Differential_Folded_Cascode_OTA_with_CMFB_AC.jpg)
 
 - **Green Trace:** Gain at -40C
 - **Blue Trace:** Gain at 25C
@@ -80,7 +80,7 @@ The system was evaluated with the use of a weak 1mV input signal to verify the c
   
 
 ### Consumption
-![Waveforms](images/2-stage-Miller_op-Amp_Consumption.jpg)
+![Waveforms](images/Fully_Differential_Folded_Cascode_OTA_with_CMFB_consumption.jpg)
 
 
 ---
